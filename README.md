@@ -7,6 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+<meta name="google-site-verification" content="BxgJ69bIPUa6hoHnL9wy8CcBufAyWTs64RFcYjrZ3aI" />
 # GitHub Pages
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
